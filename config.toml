@@ -7,11 +7,4 @@ build-mindetach-module = true
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-included-patches = "custom-branding"
-excluded-patches = "hide-cast-button"
-
-[Music]
-build-mode = "both"
-excluded-patches = ""
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-apkmirror-arch = "both"                                                     # both arm64-v8a and arm-v7a
+excluded-patches = "external-downloads hide-cast-button hide-floating-microphone-button swipe-controls"

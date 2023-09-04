@@ -1,6 +1,4 @@
 YouTube: 18.32.39  
-Music (arm64-v8a): 6.17.52  
-Music (arm-v7a): 6.17.52  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 

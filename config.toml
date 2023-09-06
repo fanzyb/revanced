@@ -5,6 +5,7 @@ build-mindetach-module = true
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "external-downloads hide-cast-button hide-floating-microphone-button swipe-controls"
+[Tiktok ReVanced]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+version = "beta"
+included-patches = "sim-spoof"

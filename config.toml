@@ -5,7 +5,5 @@ build-mindetach-module = true
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
-version = "30.8.4"
-excluded-patches = "playback-speed"
+[com.vsco.cam]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/vsco/vsco-cam/"

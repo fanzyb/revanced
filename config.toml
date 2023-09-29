@@ -7,4 +7,3 @@ build-mindetach-module = true
 
 [Lightroom]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-version = "latest"
